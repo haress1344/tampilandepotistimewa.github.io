@@ -141,7 +141,23 @@ hr {
 .copyright {
   background-color: #1c1c1c;
 }
-
+@media screen and (max-width: 1600px) {
+  .navlink-konten a {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .navlink-konten {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .navlink-konten {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
 @media screen and (max-width: 1200px) {
   h2 {
     font-size: 25px;
@@ -149,14 +165,17 @@ hr {
   h4 {
     font-size: 20px;
   }
-  h5{
+  h5 {
     font-size: 15px;
   }
+  .navlink-depot-istimewa {
+    padding: 25px 79px;
+  }
   .navlink-konten {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
   }
   .navlink-konten a {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
