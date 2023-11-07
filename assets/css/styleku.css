@@ -1,0 +1,162 @@
+body {
+  background-color: #ffedda;
+}
+hr {
+  margin-top: 20px;
+  padding-top: 3px;
+  opacity: 55%;
+}
+.modal-body hr {
+  margin-top: 10px;
+  padding-top: 2px;
+  opacity: 30%;
+}
+.card-body hr {
+  margin-top: 10px;
+  padding-top: 2px;
+  opacity: 30%;
+}
+.navlink-depot-istimewa {
+  padding: 32px 86px;
+  background-color: #ec7905;
+}
+.navlink-konten {
+  padding-left: 65px;
+  padding-right: 65px;
+}
+.navlink-konten a {
+  font-size: 17px;
+}
+.link-menu {
+  margin-top: 125px;
+}
+.ket-buatakun {
+  margin-top: 135px;
+}
+.link-menu hr {
+  margin-top: 15px;
+}
+.link-menu a {
+  text-decoration: none;
+  color: #3b3b3b;
+}
+.link-menu a:hover {
+  color: #ec7905;
+}
+.carousel {
+  margin-top: 130px;
+}
+.c-item {
+  height: 480px;
+}
+.c-img {
+  height: 100%;
+}
+.color-secondary {
+  color: #3b3b3b;
+}
+.color-third {
+  color: #ec7905;
+}
+.color-forth {
+  color: #565656;
+}
+.color-fivth {
+  color: #f69c3f;
+}
+.color-sixth {
+  color: #68d426;
+}
+.nav-link:hover {
+  color: #ec7905 !important;
+}
+.color-click {
+  color: #ec7905;
+}
+.vr {
+  width: 2px;
+  opacity: 75%;
+}
+.icon-pelanggan {
+  margin-left: 50px;
+}
+.ulasan-pelanggan {
+  max-height: 250px;
+  overflow: auto;
+}
+.card-primary {
+  background-color: #f1ba7b;
+}
+.card-secondary {
+  background-color: #f7dec2;
+}
+.card-shape {
+  border-radius: 15px;
+}
+.menu-rating {
+  background-color: white;
+  width: 100px;
+  border-radius: 15px;
+}
+.color-primary-button {
+  background-color: #ec7905;
+  color: white;
+}
+.color-secondary-button {
+  background-color: white;
+  color: #ec7905;
+}
+.color-Third-button {
+  background-color: #d9d9d9;
+  color: #868686;
+}
+.color-primary-button:hover {
+  background-color: #ff9b36;
+  color: white;
+}
+.color-secondary-button:hover {
+  background-color: #d9d9d9;
+  color: #ec7905;
+}
+.card-body a {
+  text-decoration: none;
+}
+.modal-body a:hover {
+  color: #565656;
+}
+.footer {
+  background-color: #555555;
+  margin-top: 60px;
+}
+.footer h5 {
+  color: white;
+}
+.footer a {
+  text-decoration: none;
+  color: #ababab;
+}
+.content-footer p {
+  margin-top: -12px;
+}
+.copyright {
+  background-color: #1c1c1c;
+}
+
+@media screen and (max-width: 1200px) {
+  h2 {
+    font-size: 25px;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  h5{
+    font-size: 15px;
+  }
+  .navlink-konten {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .navlink-konten a {
+    font-size: 14px;
+  }
+}
