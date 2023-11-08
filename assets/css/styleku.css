@@ -178,4 +178,7 @@ hr {
   .navlink-konten a {
     font-size: 13px;
   }
+  .carousel-item{
+    height: 300px;
+  }
 }
