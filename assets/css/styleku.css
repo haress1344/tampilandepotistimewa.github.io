@@ -6,6 +6,14 @@ hr {
   padding-top: 3px;
   opacity: 55%;
 }
+.judul-bantuan hr{
+  margin-top: 10px;
+  padding-top: 2px;
+  opacity: 30%;
+}
+.accordion-button{
+  background-color: #f7dec2;
+}
 .modal-body hr {
   margin-top: 10px;
   padding-top: 2px;
@@ -26,6 +34,9 @@ hr {
 }
 .navlink-konten a {
   font-size: 17px;
+}
+.judul-bantuan {
+  margin-top: 130px;
 }
 .link-menu {
   margin-top: 125px;
@@ -178,7 +189,7 @@ hr {
   .navlink-konten a {
     font-size: 13px;
   }
-  .carousel-item{
+  .carousel-item {
     height: 350px;
   }
 }
