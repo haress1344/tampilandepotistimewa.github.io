@@ -6,12 +6,15 @@ hr {
   padding-top: 3px;
   opacity: 55%;
 }
-.judul-bantuan hr{
+.konten-web {
+  min-height: 700px;
+}
+.judul-bantuan hr {
   margin-top: 10px;
   padding-top: 2px;
   opacity: 30%;
 }
-.accordion-button{
+.accordion-button {
   background-color: #f7dec2;
 }
 .modal-body hr {
@@ -46,6 +49,9 @@ hr {
 }
 .link-menu hr {
   margin-top: 15px;
+}
+.judul-tentangkami {
+  margin-top: 120px;
 }
 .link-menu a {
   text-decoration: none;
@@ -162,6 +168,9 @@ hr {
     padding-left: 60px;
     padding-right: 60px;
   }
+  .gambar-depot-utama {
+    width: 500px;
+  }
 }
 @media screen and (max-width: 1300px) {
   .navlink-konten {
@@ -188,8 +197,18 @@ hr {
   }
   .navlink-konten a {
     font-size: 13px;
+  }.gambar-depot-utama {
+    width: 400px;
   }
   .carousel-item {
     height: 350px;
+  }
+  .gambar-tentang-kami{
+    height: 280px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .gambar-depot-utama {
+    width: 280px;
   }
 }
